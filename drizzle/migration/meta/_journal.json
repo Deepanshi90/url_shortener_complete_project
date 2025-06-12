@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1749535260105,
+      "tag": "0000_sparkling_raza",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1749627194317,
+      "tag": "0001_sticky_puck",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1749639744486,
+      "tag": "0002_damp_onslaught",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1749643488220,
+      "tag": "0003_steep_deathstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1749647010207,
+      "tag": "0004_black_the_phantom",
+      "breakpoints": true
+    }
+  ]
+}
