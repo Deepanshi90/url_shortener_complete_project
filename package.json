@@ -15,7 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "arctic": "^3.7.0",
     "argon2": "^0.43.0",
@@ -42,5 +41,17 @@
   "devDependencies": {
     "drizzle-kit": "^0.31.1",
     "prisma": "^6.9.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepanshi90/url_shortener_complete_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deepanshi90/url_shortener_complete_project/issues"
+  },
+  "homepage": "https://github.com/Deepanshi90/url_shortener_complete_project#readme",
+  "description": ""
 }
